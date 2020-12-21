@@ -24,5 +24,5 @@ func main() {
 		return
 	}
 	fmt.Println(token)   // 87y8da....
-	fmt.Println(message) // Hello world!
+	fmt.Println(message) // message
 }
